@@ -523,7 +523,7 @@
                     ]
                 }, 
                 "Timeout": 300, 
-                "Runtime": "python3.7"
+                "Runtime": "python3.10"
             }, 
             "DependsOn": "CopyFromSourceRun"
         }, 
